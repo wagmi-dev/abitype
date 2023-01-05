@@ -35,7 +35,7 @@
     "/zod"
   ],
   "peerDependencies": {
-    "typescript": ">=4.7.4",
+    "typescript": ">=4.9.4",
     "zod": ">=3.19.1"
   },
   "peerDependenciesMeta": {
@@ -44,26 +44,26 @@
     }
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.4.4",
-    "@changesets/cli": "^2.22.0",
-    "@types/eslint": "^8.4.3",
+    "@changesets/changelog-github": "^0.4.8",
+    "@changesets/cli": "^2.26.0",
+    "@types/eslint": "^8.4.10",
     "@types/node": "17.0.21",
-    "@types/prettier": "^2.6.0",
-    "@typescript-eslint/eslint-plugin": "^5.27.1",
-    "@typescript-eslint/parser": "^5.27.1",
+    "@types/prettier": "^2.7.2",
+    "@typescript-eslint/eslint-plugin": "^5.48.0",
+    "@typescript-eslint/parser": "^5.48.0",
     "eslint": "8.17.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-import-resolver-typescript": "^2.7.1",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.0.0",
     "lint-staged": "^12.4.1",
-    "prettier": "^2.6.2",
-    "simple-git-hooks": "^2.8.0",
+    "prettier": "^2.8.1",
+    "simple-git-hooks": "^2.8.1",
     "tsup": "^6.5.0",
-    "typescript": "^4.7.4",
-    "vitest": "^0.25.2",
-    "zod": "^3.19.1"
+    "typescript": "^4.9.4",
+    "vitest": "^0.26.3",
+    "zod": "^3.20.2"
   },
   "keywords": [
     "abi",
